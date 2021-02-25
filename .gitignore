@@ -1,3 +1,6 @@
 # Editor
 .idea
 *.iml
+
+# Package
+*.tgz
