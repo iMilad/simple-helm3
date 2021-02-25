@@ -2,4 +2,4 @@ apiVersion: v2
 name: mychart
 description: A simple Helm chart for k8s
 type: application
-version: 0.0.1
+version: 0.0.2

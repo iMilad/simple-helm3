@@ -1,4 +1,5 @@
 name: mypod
+role: myrole
 container:
   name: nginx
   image: nginx
