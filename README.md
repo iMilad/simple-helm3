@@ -61,7 +61,9 @@ mychart-0-1614243590	default  	1       	2021-02-25 09:59:51.519182 +0100 CET	dep
 
 # To see "Computed Values" and pod yaml, etc
 $ helm get all <helm-chart-generated-name>
+```
 
+```yaml
 NAME: mychart-0-1614243590
 LAST DEPLOYED: Thu Feb 25 09:59:51 2021
 NAMESPACE: default
